@@ -12,6 +12,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("uploading to git...");
-        System.out.println(MathUtil.factorial(5));
+       
     }
 }
